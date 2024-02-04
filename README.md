@@ -2,7 +2,7 @@
  
 # Health Hub 360
 ### Made by Hack_Masters
-Made In 24Hr Hackathon named as **HackStreet 2.0**
+Made In 24hr Hackathon named as **HackStreet 2.0**
 
 # Steps To run the Repositary on your PC
 ### Open new Terminal And Run all the below mentioned Commands in your Terminal to install the libraries
